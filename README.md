@@ -16,7 +16,7 @@
 | **12. System Preferences**      | Review settings in "System Preferences."               |
 | **13. Internet Connection**     | Verify stable network connections.                     |
 | **14. Reinstall macOS**         | As a last resort, reinstall macOS.                     |
-| **15. Apple Support**           | Visit [Apple Support](https://support.apple.com/).     |
+| **15. Apple Support**           | Visit [Apple Support](https://support.apple.com/) for further information.     |
 
 ## Additional Tips:
 
